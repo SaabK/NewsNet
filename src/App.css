@@ -12,11 +12,8 @@
 /* Handle */
 ::-webkit-scrollbar-thumb {
     background: rgba(128, 128, 128, 0.61243536465745634634534645674523452567462345435765246);
-    border-radius: 6px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(99, 99, 99, 0.853141592653589793238462643383279502884197169399375105820974944);
-    border-radius: 6px;
-    border-radius: 6px;
 }
