@@ -1,15 +1,11 @@
-/* width */
 ::-webkit-scrollbar {
     width: 14px;
 }
-  
-/* Track */
+
 ::-webkit-scrollbar-track {
-    /* box-shadow: inset 0 0 5px grey; */
     border-radius: 6px;
 }
-  
-/* Handle */
+
 ::-webkit-scrollbar-thumb {
     background: rgba(128, 128, 128, 0.61243536465745634634534645674523452567462345435765246);
 }
